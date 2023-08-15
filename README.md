@@ -1,1 +1,1 @@
-# ArcGIS-electrofishing
+# Electrofishing and habitat surveys
